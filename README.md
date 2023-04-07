@@ -1,6 +1,4 @@
-# profile
-
-# Statistics
+# Kiyoshi-Inoue's profile
 <table>
   <tr>
     <td>Total visitors</td>
