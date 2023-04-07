@@ -1,4 +1,3 @@
-# Kiyoshi-Inoue's profile
 # My GitHub Status
 <table>
   <tr>
