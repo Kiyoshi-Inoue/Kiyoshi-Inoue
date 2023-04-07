@@ -8,3 +8,5 @@
 </a>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kiyoshi-Inoue&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kiyoshi-Inoue&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kiyoshi-Inoue&theme=default&utcOffset=8)
