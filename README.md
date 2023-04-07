@@ -7,4 +7,4 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamadayuuki&langs_count=8" />
 </a>
 
-https://github-stats-evirunurm.vercel.app/api/stats.js?username=Kiyoshi-Inoue
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kiyoshi-Inoue&theme=default)
