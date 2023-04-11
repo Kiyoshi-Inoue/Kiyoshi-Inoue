@@ -13,21 +13,6 @@
 <code><img height="50" src="https://github.com/actions.png">
 </code>
 
-**Lightly Languages and Tools:** 
-<br>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="40" 
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hcl/hcl-original.svg">
-</code>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiyoshi-Inoue&langs_count=5" />
-</a>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kiyoshi-Inoue&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kiyoshi-Inoue&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
