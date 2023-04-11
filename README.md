@@ -15,7 +15,6 @@
 
 
 
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kiyoshi-Inoue&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kiyoshi-Inoue&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kiyoshi-Inoue&theme=default&utcOffset=8)
