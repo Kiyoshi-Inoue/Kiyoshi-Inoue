@@ -24,6 +24,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hcl/hcl-ori
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiyoshi-Inoue&langs_count=5" />
 </a>
 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kiyoshi-Inoue&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/Kiyoshi-Inoue/github-readme-stats)
 
 
