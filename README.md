@@ -20,12 +20,12 @@
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hcl/hcl-original.svg">
 </code>
 
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiyoshi-Inoue&langs_count=5" />
-</a> -->
+</a>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kiyoshi-Inoue&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/Kiyoshi-Inoue/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kiyoshi-Inoue&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kiyoshi-Inoue&theme=default)
