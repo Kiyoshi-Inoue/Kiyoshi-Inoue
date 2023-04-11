@@ -14,7 +14,8 @@
 
 **Lightly Languages and Tools:** 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="40" src="https://github.com/supermarioo/terraform-icon/blob/master/png/terraform-256.png">
+<code><img height="40" 
+src="https://github.com/supermarioo/terraform-icon/blob/master/png/terraform-256.png">
 </code>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
