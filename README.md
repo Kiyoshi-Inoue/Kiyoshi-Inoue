@@ -17,7 +17,7 @@
 <br>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="40" 
-src="https://www.terraform.io/assets/images/logo-hashicorp-3f10732f.png">
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hcl/hcl-original.svg">
 </code>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
